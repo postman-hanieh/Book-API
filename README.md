@@ -4,6 +4,11 @@ This repository contains a **Postman collection** for testing the Simple Book AP
 The collection includes common API operations such as checking API status, retrieving books, placing orders, updating orders, and deleting them.
 
 ---
+## Test Scenarios
+- Verify API status endpoint
+- Validate book retrieval by ID
+- Verify order creation with valid data
+- Negative test for invalid book ID
 
 ##  Features Covered
 
